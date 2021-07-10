@@ -14,6 +14,7 @@ public class HelloWorld {
 		else
 			 System.out.println("Employee is Absent");
 	}
+	       System.out.println("");
 
 	}
 
